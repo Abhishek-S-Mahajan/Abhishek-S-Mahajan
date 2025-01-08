@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek-S-Mahajan
 - 👀 I’m interested in ...Full Stack Web Development
-- 🌱 I’m currently learning ...CS, HTML/CSS, Python, SQL, Javascript, DSA & Java
+- 🌱 I’m currently learning ...HTML/CSS, Javascript, Node.js, MongoDB, Redis, Firebase, SQL, ReactJS, Redux, Next.js & Python
 -  📫 How to reach me ...https://www.linkedin.com/in/mahajan-abhishek-sanjay/
 
 <!---
